@@ -1,4 +1,5 @@
-THIS PROJECT IS OUTDATED AND NOT MAINTAINED ANYMORE
+THIS PROJECT WORKS ON EU22 !!! thanks to original author 
+@npetrovski
 ===============
 
 # yi-hack-easy
